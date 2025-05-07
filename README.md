@@ -1,30 +1,31 @@
 # Requirement Analysis in Software Development.
-Requirement analysis is the process where the project team gather, analyze, and define the requirement of the software product to be developed.
-and it's purpose is to ensure that all stakeholders have a clear and mutual understanding of the project goal (what the system should do, how it should perform).
+Requirement analysis involves collecting, examining, and defining what a software system should do. Its main goal is to ensure all stakeholders clearly understand the system’s purpose and expected behavior.
+
 
 # What is Requirement Analysis?
-Requirement analysis is the process of gathering and analyzing the systems requirement.
+It's the process of identifying and analyzing the system's needs.
 
 # Why is Requirement Analysis Important?
-- Clarity and understanding
-- Scope definition
-- Basis for design and development
-- Cost and time estimation
-- Quality assurance
+- Ensures clear understanding among stakeholders
+- Defines the project scope
+- Guides design and development
+- Supports cost and time estimation
+- Helps maintain quality
+
 
 # Key Activities in Requirement Analysis.
-- Requirement Gathering - gathering requirement through different gathering methods.
-- Requirement Elicitation - The process of discovering the actual needs and expectations of stakeholders.
-- Requirement Documentation - The process of documenting gathered requirement.
-- Requirement Analysis and Modeling - Refining requirements and drawing usecase models to visualize how the system works.
-- Requirement Validation - validationg all requirement with the stakeholders to make sure everything aligns with the users need.
+- Requirement Gathering - Collecting requirements using various techniques.
+- Requirement Elicitation - Identifying stakeholders’ true needs and expectations.
+- Requirement Documentation - Recording the collected requirements.
+- Requirement Analysis and Modeling - Refining and representing requirements using models like use cases.
+- Requirement Validation - Confirming with stakeholders that all requirements meet their needs.
 
 # Types of Requirements.
-- Functional Requirement - requirement that the system must do or perform inorder to fill the users need.
-- Non-Function Requirement - requirement that the system better to have inorder to perform well.
+- Functional Requirement - Describe what the system must do to meet user needs.
+- Non-Function Requirement - Define how the system should perform to ensure quality.
 
 # Use Case Diagrams.
-- Use case diagram helps to visualize how the system works and how actors inside the system interacts to serve their purpose.
+- Use case diagrams visually show how the system functions and how users (actors) interact with it to achieve their goals.
 
 
 
