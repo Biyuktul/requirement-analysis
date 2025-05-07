@@ -27,5 +27,6 @@ It's the process of identifying and analyzing the system's needs.
 # Use Case Diagrams.
 - Use case diagrams visually show how the system functions and how users (actors) interact with it to achieve their goals.
 
+![alx-booking-uc](https://github.com/user-attachments/assets/8128434d-5dbb-4ae5-ad10-5c2faa31d3bf)
 
 
